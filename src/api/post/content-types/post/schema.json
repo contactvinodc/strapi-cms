@@ -43,6 +43,9 @@
       "type": "uid",
       "targetField": "title",
       "maxLength": 200
+    },
+    "sub_title": {
+      "type": "string"
     }
   }
 }
